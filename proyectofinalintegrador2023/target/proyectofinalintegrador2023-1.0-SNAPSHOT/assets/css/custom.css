@@ -1,0 +1,10 @@
+h2{
+    color:rgb(168, 50, 192);
+}
+
+.grad{
+
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(92, 6, 95) 35%, rgb(122, 138, 141) 100%);
+
+}
